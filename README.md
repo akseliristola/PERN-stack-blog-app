@@ -32,7 +32,7 @@ A modern social blogging platform built with React Native and Expo, allowing use
 
    ```
    git clone [repository-url]
-   cd slush
+   cd [repository-name]
    ```
 
 2. Install dependencies:
