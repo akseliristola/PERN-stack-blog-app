@@ -29,7 +29,6 @@ export default function BlogPostScreen() {
   const { id } = useLocalSearchParams();
   const { user } = useAppContext();
   const [newComment, setNewComment] = useState("");
-  const queryClient = useQueryClient();
   const {
     profilePagePosts,
     homePagePosts,
